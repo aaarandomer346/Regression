@@ -1,1 +1,1 @@
-test
+2 regression models, one linear regression model and one polynomial regression model to the nth degree. The polynomial regression model converts all the input data (x and y) into a range between 0-1 so that you dont need to constantly tweak the step size and randomness of generating the first weights and bias.
